@@ -3,7 +3,7 @@ body{
   background-image: linear-gradient(#9fffcb, #7ae582);
   background-repeat: no-repeat;
   background-attachment: fixed;
-  font-family: "Courier New", monospace;
+  font-family: "Arial", sans-serif;
 }
 input{
   width: 300px;
